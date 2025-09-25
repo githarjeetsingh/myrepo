@@ -1,0 +1,9 @@
+body {
+  background-color: black;
+  font-size: 30px;
+  color: white;
+
+  display: flex;
+  justify-content: center; /* horizontal center */
+  align-items: center;    
+}
